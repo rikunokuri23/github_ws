@@ -27,3 +27,19 @@ h1 {
         color     : #ffffff;
     }
 }
+
+button {
+    background-color: darkcyan;
+    color:#fff;
+    border-radius: 999px;
+    border: none;
+    padding: 5px 10px;
+}
+button:hover {
+    background-color: darkcyan;
+    color:#fff;
+    border-radius: 999px;
+    border: none;
+    padding: 5px 10px;
+    opacity: 0.7;
+}
